@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        ".venv\\Lib\\site-packages"
+    ],
+    "black-formatter.interpreter": [
+        ".venv\\Scripts\\python.exe"
+    ],
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+}
